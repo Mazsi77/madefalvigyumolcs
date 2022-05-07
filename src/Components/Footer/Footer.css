@@ -1,0 +1,18 @@
+footer{
+    background-color: #08364D;
+    color: white;
+    text-align: center;
+    padding: 86px 0 63px 0;
+}
+footer p{
+    font: normal normal normal 14pt/20pt Roboto;
+    letter-spacing: 0pt;
+    margin: 0;
+}
+footer span{
+    font: normal normal medium 14pt/20pt Roboto;
+}
+.footer-logo{
+    width: 150px;
+    margin-bottom: 26px;
+}
