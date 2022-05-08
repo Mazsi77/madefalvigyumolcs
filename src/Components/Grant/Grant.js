@@ -1,7 +1,7 @@
 import icon1 from '../../images/icon1.svg';
 import './Grant.css'
 
-function index() {
+function Grant() {
   return (
     <div className="grant-wrapper">
         <div className="grant-content">
@@ -19,4 +19,4 @@ function index() {
   )
 }
 
-export default index
+export default Grant

@@ -1,7 +1,7 @@
 import {NavLink} from 'react-router-dom'
 import './ImageSection.css'
 
-function index(props) {
+function ImageSection(props) {
 
   return (
     <div className={`section-wrapper ${props.float}`}>
@@ -17,4 +17,4 @@ function index(props) {
   )
 }
 
-export default index
+export default ImageSection

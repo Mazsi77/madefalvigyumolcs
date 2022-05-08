@@ -47,5 +47,12 @@ h5{
   display: flex;
   justify-content: center;
   align-items: center;
+  transition: background-color .3s linear;
+}
+.btn:hover{
+  background: #FF163D 0% 0% no-repeat padding-box;
+}
+.btn:active{
+  background: #CC1231 0% 0% no-repeat padding-box;
 }
 

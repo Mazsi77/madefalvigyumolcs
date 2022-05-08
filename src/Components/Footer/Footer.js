@@ -4,7 +4,7 @@ import fb from '../../images/FB.svg';
 import tw from '../../images/Tw.svg';
 import mail from '../../images/Mail.svg';
 
-function index() {
+function Footer() {
   return (
     <footer>
         <div className="footer-wrapper">
@@ -31,4 +31,4 @@ function index() {
   )
 }
 
-export default index
+export default Footer

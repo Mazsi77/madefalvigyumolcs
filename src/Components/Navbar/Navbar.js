@@ -19,7 +19,6 @@ function Navbar() {
       }
     }
     , [scrolled]);
-    console.log(scrolled)
     return () => {
       window.removeEventListener('scroll', ()=>{});
     };

@@ -1,6 +1,6 @@
 import './TextSection.css';
 
-function index(props) {
+function TextSection(props) {
   return (
     <div className="text-section-wrapper">
         <img src={props.img} className="section-icon" />
@@ -17,4 +17,4 @@ function index(props) {
   )
 }
 
-export default index
+export default TextSection
